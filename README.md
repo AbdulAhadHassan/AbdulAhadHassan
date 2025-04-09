@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **type script**
 
-- 💬 Ask me about **react, next.js ,js and ui**
+- 💬 Ask me about **react, next.js,js and UI**
 
 - 📫 How to reach me **malikabdulahadhassan@gmail.com**
 
-- 💡 <a href="https://portfolio-beta-eight-90.vercel.app/"> Porfolio </a>
+- 💡 <a href="https://portfolio-beta-eight-90.vercel.app/"> Portfolio </a>
 ###
 
 <div align="left">
